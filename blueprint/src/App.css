@@ -1,0 +1,17 @@
+
+.App{
+  width: 80vw;
+  margin: 5vw 10vw;
+  padding: 5vw 10vw;
+  background-color: rgba(85, 145, 182, 0.445)
+}
+
+.MyButton{
+  align-content: center;
+}
+
+.staticSettings{
+  justify-content: space-around;
+  display: flex;
+  margin: 1vh;
+}
